@@ -6,4 +6,7 @@
 > 安装模块 Pillow
 2. 将目标图片拷贝至images目录下；
 3. 在根目录下创建out/images空目录（最后添加水印的图片将会存放在这里）
-4. 运行 python main.py
+4. 终端运行 
+```
+python main.py
+```
